@@ -113,3 +113,18 @@ Non-functional requirements describe **how** the system performs its functions. 
 - The UI should be **responsive** and accessible on desktop, tablet, and mobile devices.
 
 Understanding both types ensures that the booking system is **functionally complete** and **operationally reliable** across real-world scenarios.
+---
+
+## Use Case Diagrams
+
+Use Case Diagrams are a type of UML (Unified Modeling Language) diagram used to visually represent the functional requirements of a system. They illustrate the interactions between **actors** (users or systems) and the **use cases** (system functionalities) they are involved in.
+
+### 📌 Benefits of Use Case Diagrams:
+- Help stakeholders and developers understand system functionality at a high level.
+- Provide clarity on what each type of user can do in the system.
+- Serve as a communication tool during requirement analysis and validation.
+- Assist in identifying scope, responsibilities, and access control.
+
+Below is the use case diagram for the **Booking Management System**, showing how different actors interact with the core functionalities of the system:
+
+![Booking Management System Use Case Diagram](./alx-booking-uc.png)
