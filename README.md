@@ -82,3 +82,34 @@ Requirement Analysis consists of several key activities that help ensure the sys
   - Helps identify ambiguities, redundancies, and inconsistencies before development begins.
 
 Each of these activities contributes to building a reliable foundation for system design, development, and successful delivery.
+---
+
+## Types of Requirements
+
+Requirements in software development are generally categorized into two main types: **Functional Requirements** and **Non-functional Requirements**. Both are essential for building a complete and effective software system.
+
+### 🔧 Functional Requirements
+
+Functional requirements define **what** the system should do. These are the features and capabilities that the system must support to satisfy user needs and business processes.
+
+#### 📝 Examples for Booking Management System:
+- Users shall be able to **create new bookings** for available rooms or services.
+- The system shall allow users to **view, update, or cancel** existing bookings.
+- The system shall enable administrators to **manage room inventory** and availability.
+- Users shall receive **email confirmations** after completing a booking.
+- The system shall allow **staff members** to check the **daily schedule** of bookings.
+
+---
+
+### ⚙️ Non-functional Requirements
+
+Non-functional requirements describe **how** the system performs its functions. They define the quality attributes, performance benchmarks, and technical standards the system must meet.
+
+#### 📝 Examples for Booking Management System:
+- The system should be available **24/7** with **99.9% uptime**.
+- Users should be able to complete a booking within **3 seconds** under normal load.
+- The application must **encrypt all user data** using industry-standard security protocols (e.g., HTTPS, SSL/TLS).
+- The platform should support up to **10,000 concurrent users** without performance degradation.
+- The UI should be **responsive** and accessible on desktop, tablet, and mobile devices.
+
+Understanding both types ensures that the booking system is **functionally complete** and **operationally reliable** across real-world scenarios.
