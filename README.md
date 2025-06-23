@@ -50,3 +50,35 @@ Identifying requirements early ensures potential issues, inconsistencies, and ga
 Requirement Analysis aligns technical outcomes with business objectives by translating goals into measurable software features. This ensures the final system provides real value to the business and its users.
 
 Additional benefits include improved planning, accurate budgeting, better testing, and enhanced product quality — all of which stem from strong requirement analysis practices.
+---
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis consists of several key activities that help ensure the system meets user needs and aligns with business goals. These activities form the backbone of understanding and shaping what the system should do.
+
+### 🔑 The five key activities are:
+
+- **1. Requirement Gathering**
+  - Involves collecting information from stakeholders about what they expect from the system.
+  - Techniques include interviews, surveys, document analysis, brainstorming sessions, and observation.
+
+- **2. Requirement Elicitation**
+  - Focuses on drawing out hidden, implicit, or unspoken requirements.
+  - Encourages stakeholders to clarify and articulate their needs.
+  - Helps identify both functional and non-functional requirements.
+
+- **3. Requirement Documentation**
+  - Converts gathered and elicited requirements into well-structured, formal documents.
+  - These include Software Requirements Specifications (SRS), user stories, use cases, and requirement traceability matrices.
+
+- **4. Requirement Analysis and Modeling**
+  - Analyzes and organizes requirements into logical groups and models.
+  - Involves prioritizing, categorizing, checking for completeness, consistency, feasibility, and eliminating conflicts.
+  - May include creating use case diagrams, process flows, and data models to represent the requirements visually.
+
+- **5. Requirement Validation**
+  - Ensures that documented requirements accurately reflect stakeholder needs.
+  - Activities include reviews, walkthroughs, and inspections with stakeholders.
+  - Helps identify ambiguities, redundancies, and inconsistencies before development begins.
+
+Each of these activities contributes to building a reliable foundation for system design, development, and successful delivery.
